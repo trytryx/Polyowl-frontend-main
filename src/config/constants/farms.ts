@@ -87,7 +87,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'OWL',
     decimal: 18,
     lpAddresses: {
-      137: '0x55dA1eeee98534832b485B9f73546837640ca79D'
+      137: '0x97C86e61658E7C19615BB958b22bA9597aBA979C'
     },
     tokenSymbol: 'OWL',
     tokenAddresses: {
