@@ -5,17 +5,17 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'OWL-USDC LP',
+    lpSymbol: 'OWL-MATIC LP',
     decimal: 18,
     lpAddresses: {
       137: '0x97C86e61658E7C19615BB958b22bA9597aBA979C',
     },
-    tokenSymbol: 'OWL',
+    tokenSymbol: 'HSW',
     tokenAddresses: {
       137: '0x55dA1eeee98534832b485B9f73546837640ca79D',
     },
-    quoteTokenSymbol: QuoteToken.USDC,
-    quoteTokenAdresses: contracts.usdc,
+    quoteTokenSymbol: QuoteToken.CAKE,
+    quoteTokenAdresses: contracts.cake,
   },
   {
     pid: 3,
