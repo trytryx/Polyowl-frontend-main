@@ -3,16 +3,16 @@ import { FarmConfig, QuoteToken } from './types'
 
 const farms: FarmConfig[] = [
   {
-    pid: 0,
+    pid: 1,
     risk: 5,
     lpSymbol: 'OWL-USDC LP',
     decimal: 18,
     lpAddresses: {
-      137: '0xcf509cbde7ffaa1d90512a9567be5f9d5a59046a',
+      137: '0x97C86e61658E7C19615BB958b22bA9597aBA979C',
     },
     tokenSymbol: 'OWL',
     tokenAddresses: {
-      137: '0xc7553307eD737dcE132aE7915E6496864617B261',
+      137: '0x55dA1eeee98534832b485B9f73546837640ca79D',
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.usdc,
@@ -81,7 +81,7 @@ const farms: FarmConfig[] = [
   //   quoteTokenAdresses: contracts.busd,
   // },
   {
-    pid: 1,
+    pid: 0,
     risk: 5,
     isTokenOnly: true,
     lpSymbol: 'OWL',
