@@ -17,7 +17,7 @@ export default {
     97: '',
   },
   mulltiCall: {
-    137: '0x40524425bcb58Dc16f11746B0028e23aCDA1e128'
+    137: '0x9273a5E2FB9df10dd4A2A0Ba27d2aaC876F2470a'
   },
   usdc: {
     137: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174'
