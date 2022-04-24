@@ -74,7 +74,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       137: '0xc505c0529A46f42DE7AaC10ac1bf7A64BAD52d51'
     },
-    tokenSymbol: 'HSW',
+    tokenSymbol: 'OWL',
     tokenAddresses: {
       137: '0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2'
     },
