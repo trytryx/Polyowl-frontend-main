@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total OWL burned since launch"
+        "text": "Total HSW burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn OWL"
+        "text": "Stake LP tokens to earn HSW"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Owl, get SYRUP."
+        "text": "Stake HSW, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake OWL tokens, the contract will automatically harvest OWL rewards for you!"
+        "text": "Every time you stake and unstake HSW tokens, the contract will automatically harvest HSW rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Owl price"
+        "text": "HSW price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 OWL = 1 SYRUP"
+        "text": "1 HSW = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of OWL block emissions each day (10 OWL per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of HSW block emissions each day (10 HSW per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% OWL"
+        "text": "%num% HSW"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend OWL to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend HSW to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% OWL Available"
+        "text": "%num% HSW Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 OWL"
+        "text": "Your amount must be a multiple of 10 HSW"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 OWL"
+        "text": "1 Ticket = 10 HSW"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your OWL cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your HSW cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "OWL prizes to be claimed"
+        "text": "HSW prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve OWL"
+        "text": "Approve HSW"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of OWL block emissions each day (10 OWL per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of HSW block emissions each day (10 HSW per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using OWL-BNB LP tokens, which means you need to stake equal amounts of OWL and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using HSW-USDC LP tokens, which means you need to stake equal amounts of HSW and USDC in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get OWL-BNB LP >"
+        "text": "Get HSW-MATIC LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Goose Finance burns the OWL."
+        "text": "The project gets the BNB, Goose Finance burns the HSW."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Owl Stats"
+        "text": "HSW Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New OWL\/block"
+        "text": "New HSW\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "OWL to Harvest"
+        "text": "HSW to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "OWL in Wallet"
+        "text": "HSW in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting OWL"
+        "text": "Collecting HSW"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "OWL to Collect"
+        "text": "HSW to Collect"
       }
     },
     {
@@ -753,13 +753,13 @@
     {
       "data": {
         "stringId": 576,
-        "text": "PolyOwl Finance"
+        "text": "HYPERSWAPP"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "PolyOwl Finance, last generation yield farming based on polygon."
+        "text": "HyperSwapp, last generation yield farming based on polygon."
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake OWL to earn new tokens."
+        "text": "Stake HSW to earn new tokens."
       }
     },
     {
@@ -789,7 +789,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "OWL to burn (USD)"
+        "text": "HSW to burn (USD)"
       }
     },
     {
@@ -801,7 +801,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest OWL rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest HSW rewards for you!"
       }
     },
     {
@@ -819,13 +819,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy OWL and BNB tokens"
+        "text": "Buy HSW and MATIC tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get OWL-BNB LP tokens by adding OWL and BNB liquidity"
+        "text": "Get HSW-MATIC LP tokens by adding HSW and MATIC liquidity"
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your OWL-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your HSW-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +873,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for OWL, or keep for your collection!"
+        "text": "Trade in for HSW, or keep for your collection!"
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive OWL, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive HSW, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +945,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a OWL value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a HSW value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for OWL"
+        "text": "Trade in for HSW"
       }
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn OWL"
+        "text": "Stake LP tokens to earn HSW"
       }
     },
     {
@@ -1155,13 +1155,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The OWL Lottery"
+        "text": "The HSW Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with OWL"
+        "text": "Buy tickets with HSW"
       }
     },
     {
@@ -1215,7 +1215,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback OWL"
+        "text": "Deposit Fee will be used to buyback HSW"
       }
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn OWL"
+        "text": "Stake tokens to earn HSW"
       }
     },
     {
