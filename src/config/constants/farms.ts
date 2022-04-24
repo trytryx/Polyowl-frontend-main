@@ -15,7 +15,7 @@ const farms: FarmConfig[] = [
       137: '0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2',
     },
     quoteTokenSymbol: QuoteToken.USDC,
-    quoteTokenAdresses: contracts.usdc,
+    quoteTokenAdresses: contracts.matic,
   },
 
   // {
@@ -79,7 +79,7 @@ const farms: FarmConfig[] = [
       137: '0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2'
     },
     quoteTokenSymbol: QuoteToken.USDC,
-    quoteTokenAdresses: contracts.usdc,
+    quoteTokenAdresses: contracts.matic,
   },
 
   {
