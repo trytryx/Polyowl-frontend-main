@@ -69,7 +69,7 @@ const farms: FarmConfig[] = [
     pid: 1,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'OWL',
+    lpSymbol: 'HSW',
     decimal: 18,
     lpAddresses: {
       137: '0xc505c0529A46f42DE7AaC10ac1bf7A64BAD52d51'
