@@ -77,6 +77,20 @@ const config: MenuEntry[] = [
       },
     ],
   },
+{
+    label: 'Hyper Apps',
+    icon: 'MoreIcon',
+    items: [
+      {
+        label: 'Hyper Network',
+        href: 'https://play.google.com/store/apps/details?id=com.cryptoinc.hypertoken',
+      },
+      {
+        label: 'Hyper Faucet LTC',
+        href: 'https://play.google.com/store/apps/details?id=com.cryptoinc.hyperfaucetltc',
+      },
+    ],
+  },
 ]
 
 export default config
