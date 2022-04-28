@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://quickswap.exchange/#/swap?outputCurrency=0xc7553307eD737dcE132aE7915E6496864617B261',
+        href: 'https://exchange.hyperswapp.com/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://quickswap.exchange/#/pool',
+        href: 'https://exchange.hyperswapp.com/#/pools',
       },
     ],
   },
