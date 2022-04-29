@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'OWL-USDC LP',
+    lpSymbol: 'HSW-MATIC LP',
     decimal: 18,
     lpAddresses: {
       137: '0xc505c0529A46f42DE7AaC10ac1bf7A64BAD52d51',
