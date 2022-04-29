@@ -50,12 +50,12 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'QuickSwap',
-        href: 'https://info.quickswap.exchange/token/0xc7553307eD737dcE132aE7915E6496864617B261',
+        label: 'Hyper Price',
+        href: 'https://nomics.com/assets/hyper7-hyper-finance',
       },
       {
-        label: 'Vfat Tools',
-        href: 'https://vfat.tools/polygon/polyowl/',
+        label: 'HSW Price',
+        href: 'https://info.quickswap.exchange/#/token/0xc82dc76966d59d112ba56cb81799151cefa0edb2',
       },
       {
         label: 'DappRadar',
