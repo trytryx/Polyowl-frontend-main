@@ -61,7 +61,9 @@ const config: MenuEntry[] = [
       {
         label: 'Liquidity HYPER',
         href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper/how-to-add-liquidity-usdhyper',
-      },
+       },
+    ],
+  },
   {
     label: 'Info',
     icon: 'InfoIcon',
