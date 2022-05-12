@@ -55,11 +55,11 @@ const config: MenuEntry[] = [
     icon: 'TradeIcon',
     items: [
       {
-        label: 'Buy HYPER on ApeSwap',
+        label: 'Buy HYPER',
         href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper',
       },
       {
-        label: 'Liquidity HYPER on ApeSwap',
+        label: 'Liquidity HYPER',
         href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper/how-to-add-liquidity-usdhyper',
       },
   {
