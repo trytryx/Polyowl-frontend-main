@@ -47,7 +47,7 @@ const config: MenuEntry[] = [
   // },
      {
      label: 'HyperWallet',
-     icon: 'NftIcon',
+     icon: 'HomeIcon',
      href: 'https://play.google.com/store/apps/details?id=io.hyperchain.wallet',
     },
     {
