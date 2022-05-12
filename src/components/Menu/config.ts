@@ -45,6 +45,23 @@ const config: MenuEntry[] = [
   //   icon: 'NftIcon',
   //   href: '/nft',
   // },
+     {
+     label: 'HyperWallet',
+     icon: 'NftIcon',
+     href: 'https://play.google.com/store/apps/details?id=io.hyperchain.wallet',
+    },
+    {
+    label: 'HYPER',
+    icon: 'TradeIcon',
+    items: [
+      {
+        label: 'Buy HYPER on ApeSwap',
+        href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper',
+      },
+      {
+        label: 'Liquidity HYPER on ApeSwap',
+        href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper/how-to-add-liquidity-usdhyper',
+      },
   {
     label: 'Info',
     icon: 'InfoIcon',
@@ -68,12 +85,8 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: 'Github',
-        href: 'https://github.com/PolyOwlFinance',
-      },
-      {
         label: 'Docs',
-        href: 'https://polyowlfinance.gitbook.io/polyowl/',
+        href: 'https://hyperswapp.gitbook.io/hyperswapp/',
       },
     ],
   },
