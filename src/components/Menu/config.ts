@@ -76,7 +76,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'DappRadar',
-        href: 'https://dappradar.com/polygon/defi/polyowl-finance',
+        href: 'https://dappradar.com/polygon/defi/hyperswapp',
       },
     ],
   },
