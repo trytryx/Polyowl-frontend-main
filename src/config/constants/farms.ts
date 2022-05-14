@@ -25,7 +25,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       137: '0x02AD839C047ece75C341D84455678388e501d080',
     },
-    tokenSymbol: 'OWL',
+    tokenSymbol: 'HYPER',
     tokenAddresses: {
       137: '0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
     },
@@ -123,7 +123,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       137: '0x02AD839C047ece75C341D84455678388e501d080'
     },
-    tokenSymbol: 'OWL',
+    tokenSymbol: 'HYPER',
     tokenAddresses: {
       137: '0xd19A6Fe48395a7BE37dDC16508dD180D59867012'
     },
