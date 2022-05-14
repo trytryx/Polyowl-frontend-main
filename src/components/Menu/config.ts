@@ -79,7 +79,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'HSW Price',
-        href: 'https://info.quickswap.exchange/#/token/0xc82dc76966d59d112ba56cb81799151cefa0edb2',
+        href: 'https://info.quickswap.exchange/#/token/0xa216bb4d1dD10737e71357587A47Fc5691E39E26',
       },
       {
         label: 'DappRadar',
