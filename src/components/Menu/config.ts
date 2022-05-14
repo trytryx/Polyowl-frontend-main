@@ -56,13 +56,18 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Buy HYPER',
-        href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper',
+        href: 'https://apeswap.finance/swap?outputCurrency=0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
       },
       {
         label: 'Liquidity HYPER',
-        href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper/how-to-add-liquidity-usdhyper',
+        href: 'https://app.apeswap.finance/add?&token=0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
        },
     ],
+  },
+    {
+    label: 'HowtoBuy Hyper',
+    icon: 'TradeIcon',
+    href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper',
   },
   {
     label: 'Info',
