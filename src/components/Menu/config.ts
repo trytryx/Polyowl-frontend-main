@@ -60,7 +60,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity HYPER',
-        href: 'https://app.apeswap.finance/add?&token=0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
+        href: 'https://apeswap.finance/add/ETH/0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
        },
     ],
   },
