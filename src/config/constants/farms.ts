@@ -8,11 +8,11 @@ const farms: FarmConfig[] = [
     lpSymbol: 'HSW-MATIC LP',
     decimal: 18,
     lpAddresses: {
-      137: '0xc505c0529A46f42DE7AaC10ac1bf7A64BAD52d51',
+      137: '0x4effe54512b301ca04b47f2606a614e1f1fb395f',
     },
     tokenSymbol: 'OWL',
     tokenAddresses: {
-      137: '0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2',
+      137: '0xa216bb4d1dD10737e71357587A47Fc5691E39E26',
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.wmatic,
@@ -72,11 +72,11 @@ const farms: FarmConfig[] = [
     lpSymbol: 'HSW',
     decimal: 18,
     lpAddresses: {
-      137: '0xc505c0529A46f42DE7AaC10ac1bf7A64BAD52d51'
+      137: '0x4effe54512b301ca04b47f2606a614e1f1fb395f'
     },
     tokenSymbol: 'OWL',
     tokenAddresses: {
-      137: '0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2'
+      137: '0xa216bb4d1dD10737e71357587A47Fc5691E39E26'
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.wmatic,
