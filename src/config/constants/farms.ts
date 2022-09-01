@@ -130,7 +130,22 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.wmatic,
   },
-
+{
+    pid: 5,
+    risk: 5,
+    isTokenOnly: true,
+    lpSymbol: 'USDC',
+    decimal: 6,
+    lpAddresses: {
+      137: '0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d'
+    },
+    tokenSymbol: 'USDC',
+    tokenAddresses: {
+      137: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174'
+    },
+    quoteTokenSymbol: QuoteToken.USDC,
+    quoteTokenAdresses: contracts.wmatic,
+  },
 ]
 
 export default farms
