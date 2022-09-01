@@ -17,21 +17,6 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.wmatic,
   },
-    {
-    pid: 4,
-    risk: 5,
-    lpSymbol: 'HYPER-MATIC APELP',
-    decimal: 18,
-    lpAddresses: {
-      137: '0x02AD839C047ece75C341D84455678388e501d080',
-    },
-    tokenSymbol: 'HYPER',
-    tokenAddresses: {
-      137: '0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
-    },
-    quoteTokenSymbol: QuoteToken.USDC,
-    quoteTokenAdresses: contracts.wmatic,
-  },
 {
     pid: 7,
     risk: 5,
@@ -43,6 +28,22 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'WMATIC',
     tokenAddresses: {
       137: '0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270',
+    },
+    quoteTokenSymbol: QuoteToken.USDC,
+    quoteTokenAdresses: contracts.wmatic,
+  },
+
+    {
+    pid: 4,
+    risk: 5,
+    lpSymbol: 'HYPER-MATIC APELP',
+    decimal: 18,
+    lpAddresses: {
+      137: '0x02AD839C047ece75C341D84455678388e501d080',
+    },
+    tokenSymbol: 'HYPER',
+    tokenAddresses: {
+      137: '0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.wmatic,
