@@ -46,39 +46,21 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
      {
-     label: 'HyperWallet',
+     label: 'PhnxNetwork',
      icon: 'HomeIcon',
      href: 'https://play.google.com/store/apps/details?id=io.hyperchain.wallet',
     },
-    {
-    label: 'HYPER',
-    icon: 'TradeIcon',
-    items: [
-      {
-        label: 'Buy HYPER',
-        href: 'https://apeswap.finance/swap?outputCurrency=0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
-      },
-      {
-        label: 'Liquidity HYPER',
-        href: 'https://apeswap.finance/add/ETH/0xd19A6Fe48395a7BE37dDC16508dD180D59867012',
-       },
-    ],
-  },
-    {
-    label: 'HowtoBuy Hyper',
-    icon: 'TradeIcon',
-    href: 'https://hyperswapp.gitbook.io/hyperswapp/how-to-buy-usdhyper',
   },
   {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
       {
-        label: 'Hyper Price',
+        label: 'PHS Price',
         href: 'https://nomics.com/assets/hyper7-hyper-finance',
       },
       {
-        label: 'HSW Price',
+        label: 'PHNX Price',
         href: 'https://info.quickswap.exchange/#/token/0xa216bb4d1dD10737e71357587A47Fc5691E39E26',
       },
       {
@@ -87,29 +69,6 @@ const config: MenuEntry[] = [
       },
     ],
   },
-  {
-    label: 'More',
-    icon: 'MoreIcon',
-    items: [
-      {
-        label: 'Docs',
-        href: 'https://hyperswapp.gitbook.io/hyperswapp/',
-      },
-    ],
-  },
-{
-    label: 'Hyper Apps',
-    icon: 'MoreIcon',
-    items: [
-      {
-        label: 'Hyper Network',
-        href: 'https://play.google.com/store/apps/details?id=com.cryptoinc.hypertoken',
-      },
-      {
-        label: 'Hyper Faucet LTC',
-        href: 'https://play.google.com/store/apps/details?id=com.cryptoinc.hyperfaucetltc',
-      },
-    ],
   },
 ]
 
