@@ -50,7 +50,6 @@ const config: MenuEntry[] = [
      icon: 'HomeIcon',
      href: 'https://play.google.com/store/apps/details?id=io.hyperchain.wallet',
     },
-  },
   {
     label: 'Info',
     icon: 'InfoIcon',
@@ -68,7 +67,6 @@ const config: MenuEntry[] = [
         href: 'https://dappradar.com/polygon/defi/hyperswapp',
       },
     ],
-  },
   },
 ]
 
